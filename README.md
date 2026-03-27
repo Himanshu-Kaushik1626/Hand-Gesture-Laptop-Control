@@ -9,6 +9,9 @@ Control your laptop using hand gestures in real-time using computer vision. This
 <!-- Add your demo GIF or video here -->
 
 ![Demo](demo.gif)
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 213601" src="https://github.com/user-attachments/assets/29b6faa5-5707-4381-8b00-e61bb14a231f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65139a67-8710-40c9-9460-ad3b1aa792b7" />
 
 ---
 
